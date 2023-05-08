@@ -9,7 +9,10 @@ input[type=text], input[type=password] {
   border: 1px solid #ccc;
   box-sizing: border-box;
 }
-
+.title {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
 
 /* Set a style for all buttons */
 button {
